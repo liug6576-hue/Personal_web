@@ -190,10 +190,10 @@ document.addEventListener("DOMContentLoaded", () => {
   /* Typing tagline rotator (brand slogans) */
   const typingEl = document.getElementById("typing");
   const slogans = [
-    "Handpicked Fiverr Services",
-    "Vetted Freelance Talent",
-    "Trusted Buyer's Guides",
-    "Updated Weekly",
+    "Fiverr Sellers, Vetted by Hand",
+    "Honest Reviews, Real Prices",
+    "Free Step-by-Step Guides",
+    "Hire With Confidence",
   ];
   let sIdx = 0, cIdx = 0, deleting = false;
   (function tick() {
